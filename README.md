@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bryce Crist</h1>
 <h3 align="center">I'm an Android Automation Engineer</h3>
+<h4 align="center">I work with a variety of technologies, but am currently most interested in C++ and embedded/systems development. I hope to be able to contribute to SerentityOS one of these days...<h4/>
+<h4 align="center">Besides programming, I'm a cook, bookworm, and guitarist.<h4/>
+<h4 align="center">Reach out to me via Linkedin or through Github and/or my email.<h4/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
